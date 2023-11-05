@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Online Html Editor By Nexus Nova Games",
+  "description": "Online Html Editor By Dev Crafts",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Web Pad",
+  "name": "Web Pad:Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Web Pad",
+  "short_name": "Web Pad:Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Web Pad",
+      "name": "Web Pad:Pro",
       "url": "",
       "description": ""
     }
