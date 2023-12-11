@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Online Html Editor By Dev Crafts",
+  "description": "Online Html Editor By Brain Games",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Web Pad:Pro",
+  "name": "Web Pad By Brain Games",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Web Pad:Pro",
+  "short_name": "Web Pad By Brain Games",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Web Pad:Pro",
+      "name": "Web Pad By Brain Games",
       "url": "",
       "description": ""
     }
